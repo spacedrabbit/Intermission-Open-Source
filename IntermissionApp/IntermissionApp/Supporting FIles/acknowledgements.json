@@ -1,0 +1,175 @@
+{
+	"patrons" : [
+		{
+			"name" : "Turn the Spotlight",
+			"website" : "https://turnthespotlight.org/",
+			"image_url" : "",
+			"image_name" : "turn_the_spotlight_logo",
+			"description" : "Turn The Spotlight’s mission is to identify, nurture, and empower leaders – and in turn, to illuminate the path to a more equitable future in the arts. Spotlight offers mentorship by and for exceptional women, people of color, and other equity-seeking groups, with a particular interest in supporting artists who are using their talents and skills to strengthen their communities and pursue social justice.",
+			"social" : [
+                {
+                    "type" : "website",
+                    "url" : "https://turnthespotlight.org/"
+                },
+				{ 
+					"type" : "facebook",
+					"url" : "http://www.facebook.com/turnspotlight"
+				},
+				{
+					"type" : "twitter",
+					"url" : "https://twitter.com/turnspotlight"
+				},
+				{
+					"type" : "instagram",
+					"url" : "http://instagram.com/turnspotlight"
+				}
+			]
+		}
+	],
+
+	"services" : [
+		{
+			"name" : "Contentful",
+			"website" : "https://www.contentful.com",
+			"image_url" : "https://pbs.twimg.com/profile_images/1102939603001057280/UjKf0Wqh_400x400.png",
+			"image_name" : "",
+			"description" : "Contentful is how modern companies work with content. It’s content infrastructure for creating and managing content, backed by the tools for delivering it anywhere. With Contentful, developers and editors can work simultaneously and ship digital products faster.",
+			"social" : [
+                {
+                    "type" : "website",
+                    "url" : "https://www.contentful.com"
+                },
+				{ 
+					"type" : "twitter",
+					"url" : "https://twitter.com/contentful"
+				},
+				{
+					"type" : "github",
+					"url" : "https://github.com/contentful"
+				}
+			]
+		},
+		{
+			"name" : "Cloudinary",
+			"website" : "https://cloudinary.com/",
+			"image_url" : "https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png",
+			"image_name" : "",
+			"description" : "Cloudinary is the market leader in providing a comprehensive cloud-based image and video management platform. Cloudinary is being used by hundreds of thousands of users around the world, from small startups to large enterprises. We are here to cover your every image and video-related need.",
+			"social" : [
+                {
+                    "type" : "website",
+                    "url" : "https://cloudinary.com/"
+                },
+				{ 
+					"type" : "twitter",
+					"url" : "https://twitter.com/cloudinary"
+				},
+				{
+					"type" : "facebook",
+					"url" : "https://www.facebook.com/Cloudinary"
+				}
+			]
+		}
+	],
+
+	"pods" : [
+		{
+			"name" : "Alamofire",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/Alamofire/Alamofire"
+			}
+		},
+		{
+			"name" : "Cloudinary",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/cloudinary/cloudinary_ios"
+			}
+		},
+		{
+			"name" : "Contentful",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/contentful/contentful.swift"
+			}
+		},
+		{
+			"name" : "ContentfulRichTextRenderer",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/contentful-labs/rich-text-renderer.swift"
+			}
+		},
+		{
+			"name" : "Crashlytics",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/facebook"
+			}
+		},
+		{
+			"name" : "Facebook",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/facebook"
+			}
+		},
+		{
+			"name" : "Firebase",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/firebase/firebase-ios-sdk"
+			}
+		},
+		{
+			"name" : "Kingfisher",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/onevcat/Kingfisher"
+			}
+		},
+		{
+			"name" : "Keychain Access",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/kishikawakatsumi/KeychainAccess"
+			}
+		},
+		{
+			"name" : "Snapkit",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/SnapKit/SnapKit"
+			}
+		},
+		{
+			"name" : "Nantes",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/instacart/Nantes"
+			}
+		},
+		{
+			"name" : "YPImagePicker",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/Yummypets/YPImagePicker"
+			}
+		},
+		{
+			"name" : "Pastel",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/cruisediary/Pastel"
+			}
+		},
+		{
+			"name" : "PinpointKit",
+			"social" : {
+				"type" : "github",
+				"url" : "https://github.com/Lickability/PinpointKit"
+			}
+		}
+	]
+}

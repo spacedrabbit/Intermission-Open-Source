@@ -1,0 +1,61 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '12.0'
+
+target 'IntermissionApp' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for IntermissionApp
+
+  # Firebase Related
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Storage'
+  pod 'Fabric' , '~> 1.10.1'
+  pod 'Crashlytics' , '~> 3.13.1'
+
+  # Facebook Auth
+  pod 'FacebookCore', '= 0.5.0'
+  pod 'FacebookLogin', '= 0.5.0'
+  pod 'FBSDKCoreKit', '= 4.38.1'
+  pod 'FBSDKLoginKit', '= 4.38.1'
+
+  # Networking
+  # Note: Cloudinary depends on 4.7.3
+  pod 'Alamofire'
+  pod 'Kingfisher'
+
+  # Media Services
+  pod 'Cloudinary'
+  pod 'Contentful'
+
+  # Keychain
+  pod 'KeychainAccess'
+
+  # Layout
+  pod 'SnapKit', '= 4.2.0'
+  pod 'ContentfulRichTextRenderer'
+
+  # Text Styling
+  pod 'SwiftRichString'
+  pod 'Nantes'
+
+  # Media
+  # https://github.com/tilltue/TLPhotoPicker is worth checking out if YPImagePicker doesn't meet our needs
+  pod 'YPImagePicker'
+  # uncomment this when ready to use customizable player
+  # pod 'VersaPlayer'
+
+  # Beta & Feedback
+  pod 'PinpointKit', '~> 1.3.0'
+
+  # Payments
+  # uncomment this when ready to accept payments
+  # pod 'BraintreeDropIn'
+
+  # Pretty Things
+  pod 'Pastel'
+  pod 'NVActivityIndicatorView'
+  
+end
