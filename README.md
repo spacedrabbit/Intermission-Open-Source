@@ -1,5 +1,7 @@
 # Intermission App
 
+<img src="./Images/intermission_promo_16-9_v2.png" width=250 align=right></img>
+
 **Empowering Musicians' Wellness through Technology**
 
 ## Introduction
@@ -15,6 +17,10 @@ Taking the helm as the principal developer, advisor and designer, I guided the I
 ## A Bittersweet Journey
 
 Unfortunately, after three successful years on the App Store, our journey hit an unexpected roadblock. A copyright troll in Germany led to the app being taken down. However, the spirit of Intermission App lives on in this open-source repository, serving as a testament to our collaborative effort. It's a bittersweet reminder of the impact we made and the challenges we faced in bringing practical technology and wellness to classical musicians.
+
+<p align="center">
+  <img src="./Images/intermission_app_store.jpg">
+</p>
 
 ## Highlighted Technologies
 
