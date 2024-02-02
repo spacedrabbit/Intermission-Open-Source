@@ -54,6 +54,8 @@ The Intermission App empowered fellows Elena and Melissa, elevating yoga instruc
 
 Special thanks to [Turn the Spotlight](https://www.turnthespotlight.org/) for introducing me to their fellows. It's a rare opportunity for an iOS developer to volunteer their skill set and even rarer when that volunteer work can make a significant social equity impact.
 
+And lastly, I extend heartfelt thanks to [Charles Scalesse](https://github.com/scalessec), my boss at the time, for his unwavering support in this endeavor. His voluntary contribution of extensive technical expertise played a pivotal role in advising and shaping the project, enriching it with valuable insights and guidance.
+
 ## Note on Code
 
 While there's no guarantee the code will compile, it's open-sourced to inspire and educate others. If come across this codebase and have questions about how something works, please feel free to send me a message at louis.tur@gmail.com
